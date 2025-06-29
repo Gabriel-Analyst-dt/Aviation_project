@@ -9,7 +9,7 @@ However, for this project the scope is to determine the commercial aircrafts wit
 <h3>DATA VISUALIZATION</h3>
 
 
-<h2>CONCLUSION<br>•	Buy the Boeing make of the aircraft because it is the safest as per the data analyzed.
-•	The model of the Aircraft seems not to play any role in the safety of the aircrafts. So buy any model that suits you.
+<h2>CONCLUSION<br>•	Buy the Boeing make of the aircraft because it is the safest as per the data analyzed.<br>
+•	The model of the Aircraft seems not to play any role in the safety of the aircrafts<br/>. So buy any model that suits you.
 •	Buy an aircraft with a double size engine, they are more safe than aircrafts with a single size engine.
 <br/></h2>
