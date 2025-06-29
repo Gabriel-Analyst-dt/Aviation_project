@@ -5,6 +5,6 @@
 It is therefore prudent that data scientists across the globe could come up with a prediction model(s) that predict the accidents before they happen.
 However, for this project the scope is to determine the commercial aircrafts with low risk of accidents.
  </>
-<h4>data understanding</h4>
-<h3>data visualization</h3>
-<h2>conclution</h2>
+<h4>DATA UNDERSTANDING<br>This data comes from National Transportation Safety Board of USA for the period between 1962 and 2023.<br/></h4>
+<h3>DATA VISUALIZATION</h3>
+<h2>CONCLUSION</h2>
