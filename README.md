@@ -1,8 +1,10 @@
 <h1>COMMERCIAL AIRCRAFTS ACCIDENT PREDICTION PROJECT</h1>
 
 <h2>PROJECT GOAL <br> My project aims to predict the commercial aircrafts with low risk of accidents in the USA.</br></h2>
-<h3> </h3>
-<h3>business understanding</h3>
+<h3>BUSINESS UNDERSTANDING</h3><br>Every day, approximately over 100,000 commercial aircrafts are carrying millions of passengers across the globe. Accidents, although very rare, but when they happen they are very devastating.
+It is therefore prudent that data scientists across the globe could come up with a prediction model(s) that predict the accidents before they happen.
+However, for this project the scope is to determine the commercial aircrafts with low risk of accidents.
+ </>
 <h4>data understanding</h4>
 <h3>data visualization</h3>
 <h2>conclution</h2>
